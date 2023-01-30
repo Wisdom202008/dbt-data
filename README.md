@@ -3,6 +3,8 @@
 ### Overview
 This script is used to move data from a PostgreSQL database to BigQuery using a Jupyter notebook.
 
+![Alt text](/path/to/img.jpg "Optional title")
+
 ### Requirements
 1. Install the following libraries:
    - json
