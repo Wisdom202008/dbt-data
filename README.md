@@ -23,4 +23,4 @@ This script is used to move data from a PostgreSQL database to BigQuery using a 
 Run the Jupyter Notebook to transfer the data from the API to BigQuery.
 
 ### Note
-The script is set up to retrieve data from three tables: "loan_request", "disbursement", and "repayment". If you need to retrieve data from a different table, you'll need to update the pull_and_insert function and replace 'repayment' with the name of the desired table.
+The script is set up to retrieve data from three tables: "loan_request", "disbursement", and "repayment". If you need to retrieve data from a different table, you'll need to update the pull_and_insert function and replace 'repayment' with the name of the desired table
