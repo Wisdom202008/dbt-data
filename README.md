@@ -1,4 +1,4 @@
-# Helium-Credit
+# Credit
 
 ### Overview
 This script is used to move data from a PostgreSQL database to BigQuery using a Jupyter notebook.
